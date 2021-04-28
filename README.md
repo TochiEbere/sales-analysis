@@ -14,8 +14,8 @@ The management is particularly very interested in generating sales reports to un
 > - Make more investment into locations with highest sales
 > - Make more investment into products with highest sales and profitability 
 > - Commence a reward program for our most hard working workers.
-> - Commence a personalized marketing program
-> - Predict customer sales
+> - Optional :Commence a personalized marketing program
+> - Optional : Predict customer sales
 > 
 > Kindly provide us with reports and predictive models which will gives us insights and aid our decision making. 
 
