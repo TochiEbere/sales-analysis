@@ -24,15 +24,16 @@ The management is particularly very interested in generating sales reports to un
 Your organization uses a mix of Microsoft based products and open source tools.
 - PowerBI for visualization and automated reports
 - SQL server for databases
-- Python for machine learning 
+- Optional: Python for machine learning 
 
 ### Tasks
 #### Level: Intermediate
 #### Data Path: Data Science | Data Viz/BI Developer | Product/Marketing Analyst
-- Using PowerBI, you are expected to create stunning visual reports on items 1-4. Your organization has predefined PowerBI templates for its reports developed by a consultant. You are meant to adapt these templates to develop captivating reports. You have been enrolled on the course below to learn how to develop based on their templates... https://youtu.be/KZDFw_G-Rj8
-- The IT team says the database currently has issues. However, they have indicated that the data currently sits on a web app and can be scraped using Python. You are expected to scrape the data from https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all. There are 7 tables containing customer and sales information.
-- Using Python, you are expected to create a segmentation model that will drive the personalized marketing program.
-- Using Python, you are expected to create an ML model to predict customer sales.
+
+- The IT team says the data currently sits in an SQL server database. They have extracted the database tables in csv files and they expect you to setup the files in your own SQL server database. There are 7 tables containing customer and sales information. Query this data in SQL server and integrate the output with PowerBI. 
+- Using PowerBI, you are expected to create stunning visual reports on items 1-4. Your organization has predefined PowerBI templates for its reports developed by a consultant. The consultant refers you to the link below to help you get inspiration on captivating templates... https://youtu.be/KZDFw_G-Rj8
+- Optional: Using Python, you are expected to create a segmentation model that will drive the personalized marketing program.
+- Optional: Using Python, you are expected to create an ML model to predict customer sales.
 
 ### Deliverables
 - Create stunning visualisations which will guide the management team in making optimal decisions.
