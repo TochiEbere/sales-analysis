@@ -1,6 +1,6 @@
 # Top customers
 
-select c.customerID as customerID, sum(p.price) as total_revenue_per_customer
+select top 10 c.customerID as customerID, sum(p.price) as total_revenue_per_customer
 from customers as c
 left join orders as o on c.customerID = o.customerID
 left join orderDetails as od on o.orderID = od.orderID
